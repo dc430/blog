@@ -17,7 +17,7 @@ twitter_text: You can create your own notebook in Python or R using the exisitin
 introduction: You can create your own notebook in Python or R using the exisiting datasets in kaggle.
 ---
 
-Many of us wants to download datasets from kaggle so that we can play around it in our notebook using either **Python** or **R**. We no need to do that! You can create your own notebook in Kaggle.
+Many of us wants to download datasets from kaggle so that we can play around it in our notebook using either **Python** or **R**. Well, no need to do that! You can create your own notebook in Kaggle.
 
 *First things first* choose the dataset on which you wish to work on.
 
