@@ -47,12 +47,15 @@ authors:
     display_name: Deepak 
     image_url: '/assets/img/authors/deepak.jpg'
     desc: Nothing here.
+    instagram_username: dc.430
+    facebook_username: ddlef
+    github_username: dc430
   rashika:
     name: Rashika Chauhan
     display_name: Rashika
     image_url: '/assets/img/authors/rashika.jpg'
     desc: Nothing to see here.
-
+    instagram_username: rashika_chauhan31
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
