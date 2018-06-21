@@ -47,6 +47,10 @@ authors:
     display_name: Deepak 
     image_url: '/assets/img/authors/deepak.jpg'
     desc: Nothing here.
+  rashika:
+    name: Rashika Chauhan
+    display_name: Rashika
+    desc: Nothing to see here.
 
 
 # Exclude my node related stuff
