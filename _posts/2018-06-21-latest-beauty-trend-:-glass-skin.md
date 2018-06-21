@@ -19,46 +19,46 @@ Glass skin is a mixture of skincare and makeup. Your skin looks dewy and bright 
 
 The following are the steps that includes the makeup and skincare you will require for glass skin. So lets get started:
 
-#Skincare steps
+# Skincare steps
 
 ![6.jpg](/assets/img/6.jpg "Skincare steps image")
 
-##Cleansing:
+## Cleansing:
 
 For a transparent skin, the most essential step is clear skin. A skin which is free from excessive oil and dirt will be good to flaunt. For this step you can use any mild face wash which is not over drying in nature.
 
 
-###Toning and serum
+### Toning and serum
 
 The next step is for natural dewy glow. First step is to soak a cotton pad in toner and gently massage your skin with the toner. This step will remove all the residual dirt particles and will tighten your pores to give you a dewy skin.
 
 Next step is to take a few drops of your favorite serum and pat it all over your skin by gentle hands. Patting will give a healthy blood circulation to your face.  Serum will restore moisture deep inside your skin to make it look glowy and nourished.
 
-###Moisturizer
+### Moisturizer
 
 The last step in skincare is moisturizer for glass skin. Use a Hydro moisturizer or a water based moisturizer. You can even use a gel based moisturizer for the same. Use a small amount and gently pat it into your skin.
 
-#Makeup steps 
+# Makeup steps 
 
-##Primer
+## Primer
 
 ![7.jpg](/assets/img/7.jpg "Primer image")
 
 A good primer is always essential for any makeup routine. For glass skin, we would be using illuminating primers to give our skin a deep radiance from within. Some of the Good Illuminating primers you can use for the same are Maybelline New York Gigi Hadid tinted primer, Wet n Wild Photo Focus Dewy Face Primer, NYX born to glow liquid illuminator. Use a small quantity of this primer and gently pat it on the rough areas of your skin and then massage with gentle hands, You can focus on the nose and chin areas as there are a lot of open pores present there.
 
-##Foundation
+## Foundation
 
 ![8.jpg](/assets/img/8.jpg "Foundation image")
 
 For foundation we can use lightly tinted foundations or even cushion foundations as they won’t make your skin too cakey. The idea behind a good makeup regime is minimal makeup usage. For this purpose use a light foundation and use a beauty blender or a simple puff to blend it all inside your skin. Your skin should look as natural as possible. Some of the good Foundations for glass skin are L’Oreal Paris True Match Super Blendable Foundation, Maybelline New York Dream Satin Liquid Foundation, etc. You can also use BB creams for the same. Some of the best i would recommend would be Garnier skin naturals BB cream, NYX professional BB cream, Bobbi Brown BB cream. 
 
-##Lip and Eye Makeup
+## Lip and Eye Makeup
 
 As we are looking for a Natural look, we will skip excessive makeup. For eyes we will apply eye primer and then a eye shadow shade matching the skin and a light coat of mascara.A few products i would recommend will be Makeup revolution focus and fix eye primer and Lakme eye conic curling mascara. 
 
 For lips, we will first apply a hydrating lip balm and then a nude lipstick complementing the skin tone. A few recommended products are Neutrogena lip balm, Nivea lip balm and NYX puff lippy. 
 
-##Highlighter
+## Highlighter
 
 ![9.jpg](/assets/img/9.jpg "Highlighter image")
 

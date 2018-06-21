@@ -50,6 +50,7 @@ authors:
   rashika:
     name: Rashika Chauhan
     display_name: Rashika
+    image_url '/assets/img/authors/rashika.jpg'
     desc: Nothing to see here.
 
 
