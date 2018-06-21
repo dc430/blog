@@ -2,7 +2,7 @@
 layout: post
 title: "How to create a notebook in Kaggle?"
 date: 2018-06-21 06:54:46
-image: 'assets/img/1.jpg'
+image: '/assets/img/1.jpg'
 description: 
 category: 'technology'
 tags: 
