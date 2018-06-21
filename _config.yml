@@ -43,7 +43,7 @@ authors:
   deepak:
     name: Deepak Chauhan
     display_name: Deepak 
-    image_url: /assets/img/authors/deepak.jpg
+    image_url: '/assets/img/authors/deepak.jpg'
     desc: Nothing here.
 
 

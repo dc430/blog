@@ -1,7 +1,7 @@
 <section class="author" itemprop="author">
   {% assign author = site.authors[page.author] %}
   <div class="details" itemscope itemtype="http://schema.org/Person">
-    <img itemprop="image" class="img-rounded" src="/assets/img/authors/deepak.jpg" alt="{{ site.name }}">
+    <img itemprop="image" class="img-rounded" src= {{ author.image_url }} alt="{{ site.name }}">
     <p class="def">Author</p>
     <h3 class="name">
       <a itemprop="name" href="#">{{ author.display_name }}</a>
