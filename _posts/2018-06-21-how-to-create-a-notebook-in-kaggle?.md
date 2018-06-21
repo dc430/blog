@@ -2,7 +2,7 @@
 layout: post
 title: "How to create a notebook in Kaggle?"
 date: 2018-06-21 06:54:46
-image: 'assets/img/1.jpg'
+image: 'https://www.dropbox.com/s/1y8mhcs35ghlwe3/1.jpg?dl=0'
 description: 
 category: 'technology'
 tags: 
@@ -23,6 +23,6 @@ Many of us wants to download datasets from kaggle so that we can play around it 
 
 I'm choosing the **Europian Soccer Database**, then click on `New Kernel` as shown in the image:
 
-![placeholder]('assets/img/2.jpg' "New kernel")
+![placeholder](https://www.dropbox.com/s/jhu3xcoh0v9qqwx/2.jpg?dl=0 "New kernel")
 
 
