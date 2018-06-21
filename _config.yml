@@ -39,5 +39,13 @@ links:
   - title: Contact
     url: /contact/
 
+authors:
+  deepak:
+    name: Deepak Chauhan
+    display_name: Deepak 
+    image_url: /assets/img/authors/deepak.jpg
+    desc: Nothing here.
+
+
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
