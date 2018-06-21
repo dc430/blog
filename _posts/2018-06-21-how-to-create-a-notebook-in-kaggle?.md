@@ -23,6 +23,6 @@ Many of us wants to download datasets from kaggle so that we can play around it 
 
 I'm choosing the **Europian Soccer Database**, then click on `New Kernel` as shown in the image:
 
-![placeholder](assets/img/1.jpg "New kernel image")
+![placeholder](img/1.jpg "New kernel image")
 
 
