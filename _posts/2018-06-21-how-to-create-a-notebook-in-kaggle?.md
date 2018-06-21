@@ -26,4 +26,16 @@ I'm choosing the **Europian Soccer Database**, then click on `New Kernel` as sho
 
 ![2.jpg](/assets/img/2.jpg "New kernel image")
 
+Then, two options will appear you can choose either a **Script** or a **Notebook**. Since this is a post about creating a notebook, We'll choose notebook from the two choices.
+
+![3.jpg](/assets/img/3.jpg "Notebook choice image")
+
+Here you go! You have just created your first notebook in Kaggle.
+
+![4.png](/assets/img/4.png "Notebook created image")
+
+The notebooks at kaggle have an added advantage, the notebook offers almost `17gb of RAM, 1gb Disk storage and an optional GPU`
+
+
+
 
